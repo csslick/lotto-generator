@@ -1,3 +1,3 @@
 # react-lotto-generator
 
-demo: 
+demo: https://react-lotto-generator.netlify.app/
